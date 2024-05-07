@@ -1,11 +1,12 @@
-nome,idade
-Ana,26
-Livia,30
-Junim,24
-Gabriel,31
-Joao, 30
-Fabiano,24
-Rodrigo,24
-Renata, 23
-Karla,17
-Igor,15
+nome,idade,curso
+Ana,26,Engenharia de software
+Livia,26,Educao fisicia
+Junim,24, Direito
+Gabriel,24, Filosofia
+Joao, 30, Direito
+Fabiano,24, Filosofia
+Rodrigo,24, Direito
+Renata, 23, Medicina
+Karla,17, Ensino medio
+Igor,17, Ensino medio
+Laine,17, Ensino medio
